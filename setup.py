@@ -34,7 +34,7 @@ setup(
     # There are some restrictions on what makes a valid project name
     # specification here:
     # https://packaging.python.org/specifications/core-metadata/#name
-    name="pandoc-docx-pagebreak",  # Required
+    name="pandoc-docx-pagebreak-alex",  # Required
 
     # Versions should comply with PEP 440:
     # https://www.python.org/dev/peps/pep-0440/
@@ -81,7 +81,7 @@ setup(
 
     # This should be your name or the name of the organization which owns the
     # project.
-    author="Kazuki Yamamoto, pandocker",  # Optional
+    author="Kazuki Yamamoto, pandocker, Alex",  # Optional
 
     # This should be a valid email address corresponding to the author listed
     # above.
